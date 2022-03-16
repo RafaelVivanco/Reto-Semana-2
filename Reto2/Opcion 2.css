@@ -1,0 +1,29 @@
+body{
+    font-family: Bahnschrift;
+    max-width: 500px;
+    margin:2rem auto;
+}
+.form-register{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.controls{
+    width: 90%;
+    padding: 10px;
+}
+select{
+    width: 95%;
+    padding: 10px;   
+}
+button{
+    background-color: rgb(49, 120, 191);
+    color: white;
+    height: 35px;
+    width: 15%;
+}
+.container{
+    background-color: rgb(245, 245, 245);
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+}
